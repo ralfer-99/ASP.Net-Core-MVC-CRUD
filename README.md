@@ -19,4 +19,4 @@ A simple web application built with **ASP.NET Core MVC** and **Entity Framework 
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/ralfer-99/ASP.Net-Core-MVC-CRUD.git
-cd aspnet-core-mvc-crud
+cd ASP.Net-Core-MVC-CRUD
